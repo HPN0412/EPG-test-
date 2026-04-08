@@ -5,28 +5,28 @@
     <icon src="https://img.fifa.com/image/upload/t_l4/world-cup-2026-logo.png"/>
   </channel>
 
-  <programme channel="worldcup.2026.schedule" start="20260612020000 +0700" stop="20260612040000 +0700">
+  <programme channel="worldcup.2026.schedule" start="20260408020000 +0700" stop="20260408040000 +0700">
     <title lang="vi">MEXICO vs NAM PHI (Bảng A)</title>
     <desc lang="vi">Trận khai mạc World Cup 2026 - Trực tiếp từ sân Azteca. Trạng thái: Sắp diễn ra.</desc>
     <icon src="https://vnepg.site/thumbnail/wc2026/match01.jpg"/>
     <category lang="vi">Sports</category>
   </programme>
 
-  <programme channel="worldcup.2026.schedule" start="20260612090000 +0700" stop="20260612110000 +0700">
+  <programme channel="worldcup.2026.schedule" start="20260408090000 +0700" stop="20260408110000 +0700">
     <title lang="vi">HÀN QUỐC vs CH SÉC (Bảng A)</title>
     <desc lang="vi">Vòng bảng World Cup - Lượt trận đầu tiên bảng A.</desc>
     <icon src="https://vnepg.site/thumbnail/wc2026/match02.jpg"/>
     <category lang="vi">Sports</category>
   </programme>
 
-  <programme channel="worldcup.2026.schedule" start="20260613020000 +0700" stop="20260613040000 +0700">
+  <programme channel="worldcup.2026.schedule" start="20260409020000 +0700" stop="20260409040000 +0700">
     <title lang="vi">CANADA vs BOSNIA (Bảng B)</title>
     <desc lang="vi">Vòng bảng World Cup - Lượt trận đầu tiên bảng B.</desc>
     <icon src="https://vnepg.site/thumbnail/wc2026/match03.jpg"/>
     <category lang="vi">Sports</category>
   </programme>
 
-  <programme channel="worldcup.2026.schedule" start="20260613080000 +0700" stop="20260613100000 +0700">
+  <programme channel="worldcup.2026.schedule" start="20260409080000 +0700" stop="20260409100000 +0700">
     <title lang="vi">MỸ vs PARAGUAY (Bảng D)</title>
     <desc lang="vi">Vòng bảng World Cup - Lượt trận đầu tiên bảng D.</desc>
     <icon src="https://vnepg.site/thumbnail/wc2026/match04.jpg"/>
