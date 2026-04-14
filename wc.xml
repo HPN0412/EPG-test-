@@ -1,35 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="worldcup.2026.schedule">
-    <display-name>LỊCH THI ĐẤU WORLD CUP 2026</display-name>
+  <channel id="worldcup.2026.groupA">
+    <display-name>GROUP STAGE A&#10; 🇲🇽 🇿🇦 🇰🇷 🇨🇿</display-name>
+    <icon src="https://img.fifa.com/image/upload/t_l4/world-cup-2026-logo.png"/>
+  </channel>
+  <channel id="worldcup.2026.groupB">
+    <display-name>GROUP STAGE B&#10; 🇨🇦 🇸🇪 🇦🇷 🇧🇦 </display-name>
     <icon src="https://img.fifa.com/image/upload/t_l4/world-cup-2026-logo.png"/>
   </channel>
 
-  <programme channel="worldcup.2026.schedule" start="20260408020000 +0700" stop="20260408040000 +0700">
-    <title lang="vi">MEXICO vs NAM PHI (Bảng A)</title>
-    <desc lang="vi">Trận khai mạc World Cup 2026 - Trực tiếp từ sân Azteca. Trạng thái: Sắp diễn ra.</desc>
-    <icon src="https://vnepg.site/thumbnail/wc2026/match01.jpg"/>
-    <category lang="vi">Sports</category>
+  <programme channel="worldcup.2026.groupA" start="20260612020000 +0700" stop="20260612040000 +0700">
+    <title lang="en">🇲🇽 MEXICO vs SOUTH AFRICA 🇿🇦</title>
+    <desc lang="en">🔥 OPENING MATCH - WORLD CUP 2026&#10;🏟️ Stadium: Estadio Azteca, Mexico City&#10;────────────────────────&#10;📋 GROUP A STANDINGS:&#10;🇲🇽 MEXICO (Host)&#10;🇿🇦 SOUTH AFRICA&#10;🇰🇷 SOUTH KOREA&#10;🇨🇿 CZECH REPUBLIC&#10;────────────────────────&#10;⚽ Kick-off your World Cup journey!</desc>
+    <icon src="https://ssl.gstatic.com/onebox/media/sports/videos/vita/-u_djDXrnH_RPRJH_768x432.jpg"/>
+    <category lang="en">Sports</category>
   </programme>
 
-  <programme channel="worldcup.2026.schedule" start="20260408090000 +0700" stop="20260408110000 +0700">
-    <title lang="vi">HÀN QUỐC vs CH SÉC (Bảng A)</title>
-    <desc lang="vi">Vòng bảng World Cup - Lượt trận đầu tiên bảng A.</desc>
+  <programme channel="worldcup.2026.groupA" start="20260612090000 +0700" stop="20260612110000 +0700">
+    <title lang="en">🇰🇷 SOUTH KOREA vs CZECH REPUBLIC 🇨🇿</title>
+    <desc lang="en">⚽ WORLD CUP 2026 - GROUP STAGE A&#10;🏟️ Stadium: Akron Stadium, Guadalajara&#10;────────────────────────&#10;📋 GROUP A STANDINGS:&#10;🇲🇽 MEXICO (Host)&#10;🇿🇦 SOUTH AFRICA&#10;🇰🇷 SOUTH KOREA&#10;🇨🇿 CZECH REPUBLIC&#10;────────────────────────&#10;⭐ Star Players: Son Heung-min vs Patrik Schick</desc>
     <icon src="https://vnepg.site/thumbnail/wc2026/match02.jpg"/>
-    <category lang="vi">Sports</category>
-  </programme>
-
-  <programme channel="worldcup.2026.schedule" start="20260409020000 +0700" stop="20260409040000 +0700">
-    <title lang="vi">CANADA vs BOSNIA (Bảng B)</title>
-    <desc lang="vi">Vòng bảng World Cup - Lượt trận đầu tiên bảng B.</desc>
-    <icon src="https://vnepg.site/thumbnail/wc2026/match03.jpg"/>
-    <category lang="vi">Sports</category>
-  </programme>
-
-  <programme channel="worldcup.2026.schedule" start="20260409080000 +0700" stop="20260409100000 +0700">
-    <title lang="vi">MỸ vs PARAGUAY (Bảng D)</title>
-    <desc lang="vi">Vòng bảng World Cup - Lượt trận đầu tiên bảng D.</desc>
-    <icon src="https://vnepg.site/thumbnail/wc2026/match04.jpg"/>
-    <category lang="vi">Sports</category>
+    <category lang="en">Sports</category>
   </programme>
 </tv>
